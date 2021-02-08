@@ -8,7 +8,7 @@ Discord bot to get interact with osu! API.
 
 2. Install Dependencies:
 
-```javascript
+```shell
 
 $ npm install
 
@@ -16,7 +16,7 @@ $ npm install
 
 3. Run:
 
-```javascript
+```shell
 
 $ node index.js
 
